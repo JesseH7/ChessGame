@@ -1,5 +1,5 @@
 # ChessGame
-Two-player chess game - the classic battle of wits. Play against a friend with this intuitive and visually appealing chess implementation.
+My Computer Science A-Level project that scored 67/70. Two-player chess game - the classic battle of wits. Play against a friend with this intuitive and visually appealing chess pygame implementation.
 
 Modules Required:
 -pygame
